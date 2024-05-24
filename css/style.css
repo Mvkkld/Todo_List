@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+#list{
+    gap: 10px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#edit_btn{
+    font-size: 30px;
+    border-radius: 7px;
+    background-color: aquamarine;
+
+}
+#clear_btn{
+    font-size: 30px;
+    border-radius: 7px;
+    background-color: lightsalmon;
+}
